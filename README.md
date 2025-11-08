@@ -10,4 +10,4 @@ Community Organizations: To develop targeted initiatives and support affected co
 
 The primary dataset, by_state_hate_crimes.csv, was created by merging and cleaning the annual FBI Hate Crime Statistics reports. The Jupyter Notebook finalZR.ipynb contains the Python code for the complete analysis, including data cleaning, outlier removal, and visualization of hate crime distributions.
 
-To get started, you can run the Jupyter Notebook to see the full analysis and visualizations. The notebook uses pandas, seaborn, and matplotlib for data manipulation and plotting. The original data can be found at the UCR Crime Data Explorer, or the zip folder containing all spreadsheets used.
+To get started, you can run the Jupyter Notebook to see the full analysis and visualizations. The notebook uses pandas, seaborn, and matplotlib for data manipulation and plotting. The original data can be found at the UCR Crime Data Explorer, or the zip folder containing all spreadsheets used. Or, simply click on the file in this repository named "finalZR.ipynb"
