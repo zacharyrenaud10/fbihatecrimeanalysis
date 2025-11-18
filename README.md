@@ -12,7 +12,11 @@ Geographic Distribution: Identified specific states with disproportionate incide
 Offender Profiling: analyzed offender demographics to inform community-based support initiatives.
 
 Visualizations
-![State Trends Distribution](path/to/your/image.png)
+<img width="916" height="504" alt="image" src="https://github.com/user-attachments/assets/f46df53c-fd86-4166-8dbd-9499737c39ba" />
+<img width="927" height="944" alt="image" src="https://github.com/user-attachments/assets/b6db30bc-821c-473b-bc51-3e0752f42060" />
+<img width="747" height="629" alt="image" src="https://github.com/user-attachments/assets/66c1f1f6-2944-48a7-965a-bdc005d82696" />
+
+
 
 Technical Methodology (ETL & Data Integrity)
 To ensure accurate reporting for stakeholders, a rigorous Extract, Transform, Load (ETL) process was applied:
@@ -51,3 +55,5 @@ Usage
 The complete analysis, including code for data cleaning and visualization, is documented in the Jupyter Notebook:
 
 jupyter notebook finalZR.ipynb
+
+Or you can simply click on the file in this github repository titled, "finalZR.ipynb"
